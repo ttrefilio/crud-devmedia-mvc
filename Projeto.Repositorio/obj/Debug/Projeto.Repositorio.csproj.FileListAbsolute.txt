@@ -1,0 +1,24 @@
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Repositorio\bin\Debug\Projeto.Repositorio.dll.config
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Repositorio\bin\Debug\Projeto.Repositorio.dll
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Repositorio\bin\Debug\Projeto.Repositorio.pdb
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Repositorio\bin\Debug\EntityFramework.dll
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Repositorio\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Repositorio\bin\Debug\Projeto.Entidades.dll
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Repositorio\bin\Debug\Projeto.Entidades.pdb
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Repositorio\bin\Debug\EntityFramework.xml
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Repositorio\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Repositorio\obj\Debug\Projeto.Repositorio.csprojResolveAssemblyReference.cache
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Repositorio\obj\Debug\Projeto.Repositorio.dll
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Repositorio\obj\Debug\Projeto.Repositorio.pdb
+C:\Users\ttref\Desktop\DevMedia\Projeto.Repositorio\bin\Debug\Projeto.Repositorio.dll.config
+C:\Users\ttref\Desktop\DevMedia\Projeto.Repositorio\bin\Debug\Projeto.Repositorio.dll
+C:\Users\ttref\Desktop\DevMedia\Projeto.Repositorio\bin\Debug\Projeto.Repositorio.pdb
+C:\Users\ttref\Desktop\DevMedia\Projeto.Repositorio\bin\Debug\EntityFramework.dll
+C:\Users\ttref\Desktop\DevMedia\Projeto.Repositorio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ttref\Desktop\DevMedia\Projeto.Repositorio\bin\Debug\Projeto.Entidades.dll
+C:\Users\ttref\Desktop\DevMedia\Projeto.Repositorio\bin\Debug\Projeto.Entidades.pdb
+C:\Users\ttref\Desktop\DevMedia\Projeto.Repositorio\bin\Debug\EntityFramework.xml
+C:\Users\ttref\Desktop\DevMedia\Projeto.Repositorio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ttref\Desktop\DevMedia\Projeto.Repositorio\obj\Debug\Projeto.Repositorio.csprojResolveAssemblyReference.cache
+C:\Users\ttref\Desktop\DevMedia\Projeto.Repositorio\obj\Debug\Projeto.Repositorio.dll
+C:\Users\ttref\Desktop\DevMedia\Projeto.Repositorio\obj\Debug\Projeto.Repositorio.pdb

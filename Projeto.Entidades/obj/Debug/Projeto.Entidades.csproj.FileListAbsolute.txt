@@ -1,0 +1,5 @@
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Entidades\bin\Debug\Projeto.Entidades.dll
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Entidades\bin\Debug\Projeto.Entidades.pdb
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Entidades\obj\Debug\Projeto.Entidades.csprojResolveAssemblyReference.cache
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Entidades\obj\Debug\Projeto.Entidades.dll
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Entidades\obj\Debug\Projeto.Entidades.pdb

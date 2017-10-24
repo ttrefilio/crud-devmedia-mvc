@@ -1,0 +1,108 @@
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Web\bin\ApplicationInsights.config
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Web\bin\roslyn\csc.exe
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Web\bin\roslyn\System.Collections.Immutable.dll
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Web\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Web\bin\roslyn\vbc.exe
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Web\bin\roslyn\VBCSCompiler.exe
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Web\bin\roslyn\VBCSCompiler.exe.config
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Web\bin\Projeto.Web.dll.config
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Web\bin\Projeto.Web.dll
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Web\bin\Projeto.Web.pdb
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Web\bin\EntityFramework.dll
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Web\bin\EntityFramework.SqlServer.dll
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Web\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Web\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Web\bin\Microsoft.AI.Web.dll
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Web\bin\Microsoft.AI.WindowsServer.dll
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Web\bin\Microsoft.ApplicationInsights.dll
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Web\bin\Microsoft.Web.Infrastructure.dll
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Web\bin\System.Web.Helpers.dll
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Web\bin\System.Web.Mvc.dll
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Web\bin\System.Web.Razor.dll
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Web\bin\System.Web.Webpages.Deployment.dll
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Web\bin\System.Web.Webpages.dll
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Web\bin\System.Web.Webpages.Razor.dll
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Web\bin\EntityFramework.xml
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Web\bin\EntityFramework.SqlServer.xml
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Web\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Web\bin\Microsoft.AI.Web.xml
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Web\bin\Microsoft.AI.WindowsServer.xml
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Web\bin\Microsoft.ApplicationInsights.xml
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Web\bin\System.Web.Razor.xml
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Web\bin\System.Web.Webpages.xml
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Web\bin\System.Web.Webpages.Deployment.xml
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Web\bin\System.Web.Webpages.Razor.xml
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Web\bin\System.Web.Helpers.xml
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Web\bin\System.Web.Mvc.xml
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Web\obj\Debug\Projeto.Web.csprojResolveAssemblyReference.cache
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Web\obj\Debug\Projeto.Web.dll
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Web\obj\Debug\Projeto.Web.pdb
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Web\bin\Projeto.Entidades.dll
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Web\bin\Projeto.Repositorio.dll
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Web\bin\Projeto.Entidades.pdb
+c:\users\ttref\documents\visual studio 2015\Projects\COTI_2_MVC_Aulas(20_21_e_22)\Projeto.Web\bin\Projeto.Repositorio.pdb
+C:\Users\ttref\Desktop\DevMedia\Projeto.Web\bin\ApplicationInsights.config
+C:\Users\ttref\Desktop\DevMedia\Projeto.Web\bin\roslyn\csc.exe
+C:\Users\ttref\Desktop\DevMedia\Projeto.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ttref\Desktop\DevMedia\Projeto.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ttref\Desktop\DevMedia\Projeto.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ttref\Desktop\DevMedia\Projeto.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ttref\Desktop\DevMedia\Projeto.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ttref\Desktop\DevMedia\Projeto.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ttref\Desktop\DevMedia\Projeto.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ttref\Desktop\DevMedia\Projeto.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ttref\Desktop\DevMedia\Projeto.Web\bin\roslyn\vbc.exe
+C:\Users\ttref\Desktop\DevMedia\Projeto.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\ttref\Desktop\DevMedia\Projeto.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ttref\Desktop\DevMedia\Projeto.Web\bin\Projeto.Web.dll.config
+C:\Users\ttref\Desktop\DevMedia\Projeto.Web\bin\Projeto.Web.dll
+C:\Users\ttref\Desktop\DevMedia\Projeto.Web\bin\Projeto.Web.pdb
+C:\Users\ttref\Desktop\DevMedia\Projeto.Web\bin\EntityFramework.dll
+C:\Users\ttref\Desktop\DevMedia\Projeto.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\ttref\Desktop\DevMedia\Projeto.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ttref\Desktop\DevMedia\Projeto.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ttref\Desktop\DevMedia\Projeto.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ttref\Desktop\DevMedia\Projeto.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ttref\Desktop\DevMedia\Projeto.Web\bin\Microsoft.AI.Web.dll
+C:\Users\ttref\Desktop\DevMedia\Projeto.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ttref\Desktop\DevMedia\Projeto.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ttref\Desktop\DevMedia\Projeto.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ttref\Desktop\DevMedia\Projeto.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ttref\Desktop\DevMedia\Projeto.Web\bin\Projeto.Entidades.dll
+C:\Users\ttref\Desktop\DevMedia\Projeto.Web\bin\Projeto.Repositorio.dll
+C:\Users\ttref\Desktop\DevMedia\Projeto.Web\bin\System.Web.Helpers.dll
+C:\Users\ttref\Desktop\DevMedia\Projeto.Web\bin\System.Web.Mvc.dll
+C:\Users\ttref\Desktop\DevMedia\Projeto.Web\bin\System.Web.Razor.dll
+C:\Users\ttref\Desktop\DevMedia\Projeto.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ttref\Desktop\DevMedia\Projeto.Web\bin\System.Web.Webpages.dll
+C:\Users\ttref\Desktop\DevMedia\Projeto.Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\ttref\Desktop\DevMedia\Projeto.Web\bin\Projeto.Entidades.pdb
+C:\Users\ttref\Desktop\DevMedia\Projeto.Web\bin\Projeto.Repositorio.pdb
+C:\Users\ttref\Desktop\DevMedia\Projeto.Web\bin\EntityFramework.xml
+C:\Users\ttref\Desktop\DevMedia\Projeto.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\ttref\Desktop\DevMedia\Projeto.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ttref\Desktop\DevMedia\Projeto.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ttref\Desktop\DevMedia\Projeto.Web\bin\Microsoft.AI.Web.xml
+C:\Users\ttref\Desktop\DevMedia\Projeto.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ttref\Desktop\DevMedia\Projeto.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ttref\Desktop\DevMedia\Projeto.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ttref\Desktop\DevMedia\Projeto.Web\bin\System.Web.Razor.xml
+C:\Users\ttref\Desktop\DevMedia\Projeto.Web\bin\System.Web.Webpages.xml
+C:\Users\ttref\Desktop\DevMedia\Projeto.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ttref\Desktop\DevMedia\Projeto.Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\ttref\Desktop\DevMedia\Projeto.Web\bin\System.Web.Helpers.xml
+C:\Users\ttref\Desktop\DevMedia\Projeto.Web\bin\System.Web.Mvc.xml
+C:\Users\ttref\Desktop\DevMedia\Projeto.Web\obj\Debug\Projeto.Web.csprojResolveAssemblyReference.cache
+C:\Users\ttref\Desktop\DevMedia\Projeto.Web\obj\Debug\Projeto.Web.dll
+C:\Users\ttref\Desktop\DevMedia\Projeto.Web\obj\Debug\Projeto.Web.pdb

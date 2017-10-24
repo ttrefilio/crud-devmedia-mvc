@@ -1,0 +1,70 @@
+﻿
+@{
+    ViewBag.Title = "Consulta";
+    Layout = "~/Views/Templates/Layout.cshtml";
+}
+
+<div class="col-md-10 col-md-offset-1">
+    <div class="panel panel-primary">
+        <div class="panel-heading bg-primary">
+            <h3>Consulta de Clientes</h3>
+        </div>
+        <div class="panel-body">
+            Relação de clientes cadastrados:
+            <hr />
+
+            <table class="table table-hover">
+                <thead>
+                    <tr>
+                        <th>Código</th>
+                        <th>Nome do Cliente</th>
+                        <th>Endereço de E-mail</th>
+                        <th>Data de Cadastro</th>
+                        <th>Operações</th>
+                    </tr>
+                </thead>
+                <tbody>
+
+                    @foreach (var c in ViewBag.Dados)
+                    {
+                        <tr>
+                            <td>@c.IdCliente</td>
+                            <td>@c.Nome</td>
+                            <td>@c.Email</td>
+                            <td>@c.DataCadastro</td>
+                            <td>
+                                <a href="/Cliente/Edicao?id=@c.IdCliente" class="btn btn-primary btn-sm">Atualizar Cliente</a>
+
+                                <a href="/Cliente/Exclusao?id=@c.IdCliente" class="btn btn-danger btn-sm">Excluir</a>
+                            </td>
+                        </tr>
+                    }
+
+                </tbody>
+                <tfoot>
+                    <tr>
+                        <td colspan="5">Quantidade de Clientes: @ViewBag.Dados.Count</td>
+                    </tr>
+                </tfoot>
+            </table>
+        </div>
+        <div class="panel-footer">
+
+            @ViewBag.Mensagem
+            @TempData["Mensagem"]
+
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
